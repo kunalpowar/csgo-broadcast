@@ -12,7 +12,7 @@ This is a POC code to test the CSGO's [GOTV broadcast](https://developer.valveso
     - `tv_broadcast_url "http://6b96d99b.ngrok.io"`
     - `tv_broadcast 1`
 * Currently use the logs from the webserver to figure out the token
-* In your CSGO client use ` playcast "http://gotv-cdn.example.com/match/<token>"` to watch the broadcast 
+* In your CSGO client use ` playcast "http://6b96d99b.ngrok.io/match/<token>"` to watch the broadcast 
 
 ## TODO
 * Change to make this a standalone executable 
